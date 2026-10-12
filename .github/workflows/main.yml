@@ -1,0 +1,3 @@
+git remote add origin https://github.com/ratanajam071-cell/QR.git
+git branch -M main
+git push -u origin mainhttps://github.com/ratanajam071-cell/QR.git
